@@ -15,7 +15,7 @@ on:
     types: started
 
 env:
-  REPO_URL: https://github.com/DreamWalkerXZ/lede
+  REPO_URL: https://github.com/ALKALiKong233/lede
   REPO_BRANCH: master
   CONFIG_FILE: .config
   DIY_SH: diy.sh
